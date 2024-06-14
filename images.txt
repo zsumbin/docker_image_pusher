@@ -3,3 +3,4 @@ python:alpine3.19
 neosmemo/memos:stable
 badapple9/speedtest-x
 portainer/portainer
+ollama/ollama:latest
