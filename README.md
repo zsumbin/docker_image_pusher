@@ -44,7 +44,7 @@ Fork本项目<br>
 
 在国内服务器pull镜像：<br>
 ```
-docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
+docker pull registry.cn-hangzhou.aliyuncs.com/sumbin-image/ollama:latest
 ```
 registry.cn-hangzhou.aliyuncs.com 即 ALIYUN_REGISTRY<br>
 shrimp-images 即 ALIYUN_NAME_SPACE<br>
