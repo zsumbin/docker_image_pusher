@@ -4,3 +4,5 @@ neosmemo/memos:stable
 badapple9/speedtest-x
 portainer/portainer
 ollama/ollama:latest
+gdy666/lucky
+badapple9/speedtest-x
